@@ -18,7 +18,7 @@ The organization of content can be broken up into these components:
 
 Seen many times in agencies and in-house companies, XD/IA professionals are a subset of UX Designers, focused exclusively on understanding industry standards for creating, storing, accessing and presenting information.
 
-### **Part content strategist, part writer, part sorting guru, XA/IA Designers are involved in:**
+### Part content strategist, part writer, part sorting guru, XA/IA Designers are involved in:
 
 *   business strategy
 *   content usage
@@ -40,9 +40,15 @@ Seen many times in agencies and in-house companies, XD/IA professionals are a su
 
 To get a better sense of XD/IA design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
 
-*   [_English teacher turned designer._](https://designation.io/blog/interview-sean-norton-uxui-strategist-vanguard-technology) by [Sean Norton, Ruby cohort](https://seannorton.me) of _[Vanguard Technology.](https://www.vtcus.com/)_ (5 min read)
-*   [_Former research assistant turned content strategist._](https://designation.io/blog/carolynmcguire) by [Carolyn Mcguire, Topaz cohort](http://www.carolynmcguire.com/) of _[Dragon Army.](https://www.dragonarmy.com/)_ (5 min read)
-*   [_Marketing and advertising to content strategy consultant._](https://designation.io/blog/interview-with-emily-simon) by [Emily Simon, Umber cohort](https://emilysimon.me/) of _[Allstate.](https://www.allstate.com/)_ (5 min read)
+[English teacher turned designer.](https://designation.io/blog/interview-sean-norton-uxui-strategist-vanguard-technology) 
+by [Sean Norton](https://seannorton.me) (Ruby cohort graduate), [Vanguard Technology.](https://www.vtcus.com/) (5 min read)
+
+
+[Former research assistant turned content strategist.](https://designation.io/blog/carolynmcguire) 
+by [Carolyn Mcguire](http://www.carolynmcguire.com/) (Topaz cohort graduate), [Dragon Army.](https://www.dragonarmy.com/) (5 min read)
+
+[Marketing and advertising to content strategy consultant.](https://designation.io/blog/interview-with-emily-simon) 
+by [Emily Simon](https://emilysimon.me/) (Umber cohort graduate), [Allstate.](https://www.allstate.com/) (5 min read)
 
 ### [Information architecture: at a glance](https://webstyleguide.com/wsg3/3-information-architecture/index.html)
 by [Patrick J. Lynch](https://coastfieldguides.com/) and [Sarah Horton](https://sarahhortondesign.com/) (5 min read) In the context of web site design, information architecture describes the overall conceptual models and general designs used to plan, structure, and assemble a site. Every web site has an information architecture, but information architecture techniques are particularly important to large, complex web sites, where the primary aims are to... [Read more](https://webstyleguide.com/wsg3/3-information-architecture/index.html)
@@ -54,17 +60,30 @@ by [Tubik Studio](https://tubikstudio.com/) (7 min read) The World Wide Web cont
 by [Rebeca Costa](https://www.justinmind.com/blog/author/rebeka-costa/) (30 min read) Whenever we use any website or mobile app, we are faced with an interface that lays down information to us as we need it or look for it. It’s something we are all used to – most users don’t even notice that all the content inside that website has been carefully organized for them. [Read more](https://www.justinmind.com/blog/information-architecture-ux-guide/)
 
 
-### Videos
+## Videos
+
+### [User Experience Design in the Google Era](https://www.youtube.com/watch?v=qbToDF1M7j0)
+(3 min) NavigationArts' Director of Information Architecture, Kelley McDonald, discusses how to engage site visitors through effective site structure and relevant content.<br><br>
+<a href="https://www.youtube.com/watch?v=qbToDF1M7j0"><img src="https://img.youtube.com/vi/qbToDF1M7j0/0.jpg" width="420"></a>
+
+#
+
+### [What does an information architect do?](https://www.youtube.com/watch?v=_lwzWdO8AI8)
+(5 min) Ever wondered what an information architect does? Common tasks of IAs include research, navigation creation, wireframing, labeling, and data modeling. Most of these tasks are valuable because of the process they follow, and some also result in deliverables that you can present back to the client.<br><br>
+<a href="https://www.youtube.com/watch?v=_lwzWdO8AI8"><img src="https://img.youtube.com/vi/_lwzWdO8AI8/0.jpg" width="420"></a>
+
+#
 
 
-*   **watch:** [(3 min)](https://www.youtube.com/watch?time_continue=1&v=qbToDF1M7j0)
-*   **watch:** [What does an information architect do?](https://www.youtube.com/watch?v=_lwzWdO8AI8) (5 min)
-*   **watch:** [Lynda: Why do information architecture?](https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html%0D%0A) (3 min)
+### [Lynda: Why do information architecture?](https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html)
+(3 min) Ever wondered what an information architect does? Common tasks of IAs include research, navigation creation, wireframing, labeling, and data modeling. Most of these tasks are valuable because of the process they follow, and some also result in deliverables that you can present back to the client.<br><br>
+<a href="https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html"><img src="hhttps://cdn.lynda.com/video/143771-73-635180675443217585_338x600_thumb.jpg" width="420"></a>
+
+#
 
 
 
-
-### Tools
+## Tools
 
 
 *   [Optimal sort](https://www.optimalworkshop.com/optimalsort)
@@ -73,7 +92,7 @@ by [Rebeca Costa](https://www.justinmind.com/blog/author/rebeka-costa/) (30 min 
 
 * * *
 
-### Kits and Standards
+## Kits and Standards
 
 *   [First Time UX](http://firsttimeux.tumblr.com/)
 *   [Subjective-C](http://subjc.com/)
