@@ -1,7 +1,7 @@
 # What is an XA/IA designer? #
 
 > ## If a picture is worth 1000 words, a prototype is worth 1000 meetings.  
-> - David & Tom Kelley, Founders of IDEO
+> –  David & Tom Kelley, Founders of IDEO
 
 Have you ever gone used a web product and questioned why a designer put certain content on a certain part of a screen? Or have you ever wondered why some websites place large images at the top of the page? That's the work of an Experience Architect (XA) or an Information Architect (IA) specialist. They create content strategy, structure the information and dictate what pieces of information users use and how.
 
