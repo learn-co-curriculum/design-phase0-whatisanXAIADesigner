@@ -33,7 +33,7 @@ Seen many times in agencies and in-house companies, XD/IA professionals are a su
 *   prototyping
 *   usability testing
 *   a/b and focus group testing
-
+<br><br>
 
 
 ## UX Student Interviews ## 
@@ -58,6 +58,8 @@ by [Tubik Studio](https://tubikstudio.com/) (7 min read) The World Wide Web cont
 
 ### [Information architecture: a UX designer’s guide](https://www.justinmind.com/blog/information-architecture-ux-guide/)
 by [Rebeca Costa](https://www.justinmind.com/blog/author/rebeka-costa/) (30 min read) Whenever we use any website or mobile app, we are faced with an interface that lays down information to us as we need it or look for it. It’s something we are all used to – most users don’t even notice that all the content inside that website has been carefully organized for them. [Read more](https://www.justinmind.com/blog/information-architecture-ux-guide/)
+<br><br>
+
 
 
 ## Videos
@@ -78,8 +80,7 @@ by [Rebeca Costa](https://www.justinmind.com/blog/author/rebeka-costa/) (30 min 
 ### [Lynda: Why do information architecture?](https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html)
 (3 min) Ever wondered what an information architect does? Common tasks of IAs include research, navigation creation, wireframing, labeling, and data modeling. Most of these tasks are valuable because of the process they follow, and some also result in deliverables that you can present back to the client.<br><br>
 <a href="https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html"><img src="hhttps://cdn.lynda.com/video/143771-73-635180675443217585_338x600_thumb.jpg" width="420"></a>
-
-#
+<br><br>
 
 
 
@@ -89,8 +90,9 @@ by [Rebeca Costa](https://www.justinmind.com/blog/author/rebeka-costa/) (30 min 
 *   [Optimal sort](https://www.optimalworkshop.com/optimalsort)
 *   [Dynomapper](https://dynomapper.com/)
 *   [Axure rp](https://www.axure.com/)
+<br><br>
 
-* * *
+
 
 ## Kits and Standards
 
