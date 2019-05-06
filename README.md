@@ -79,7 +79,7 @@ by [Rebeca Costa](https://www.justinmind.com/blog/author/rebeka-costa/) (30 min 
 
 ### [Lynda: Why do information architecture?](https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html)
 (3 min) Ever wondered what an information architect does? Common tasks of IAs include research, navigation creation, wireframing, labeling, and data modeling. Most of these tasks are valuable because of the process they follow, and some also result in deliverables that you can present back to the client.<br><br>
-<a href="https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html"><img src="hhttps://cdn.lynda.com/video/143771-73-635180675443217585_338x600_thumb.jpg" width="420"></a>
+<a href="https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html"><img src="https://cdn.lynda.com/video/143771-73-635180675443217585_338x600_thumb.jpg" width="420"></a>
 <br><br>
 
 
