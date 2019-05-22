@@ -5,9 +5,9 @@
 
 Have you ever gone used a web product and questioned why a designer put certain content on a certain part of a screen? Or have you ever wondered why some websites place large images at the top of the page? That's the work of an Experience Architect (XA) or an Information Architect (IA) specialist. They create content strategy, structure the information and dictate what pieces of information users use and how.
 
-Whether you know it or not, we're all familiar with patterns in design. Patterns are why you already know where you'll find the profile icon before you get to the landing page. XA/IA specialists use patterns to make sense of content through multiple channels (mobile, tablet, desktop) and services while matching users goals and business needs.
+Whether you know it or not, we're all familiar with patterns in design. Patterns are why you already know where you'll find the profile icon before you get to the landing page. XA/IA specialists use patterns to make sense of content through multiple channels (mobile, tablet, desktop) and services while matching user goals and business needs.
 
-Usability.gov defines information architecture as a focus on **organizing, structuring, and labeling content in an effective and sustainable way.** "According to Peter Morville, the purpose of your IA is to help users understand where they are, what they’ve found, what’s around, and what to expect. As a result IA informs the content strategy through identifying word choice as well as informing user interface design and interaction design through playing a role in the wireframing and prototyping processes." (Source: Usability.org)
+Usability.gov defines information architecture as a focus on **organizing, structuring and labeling content in an effective and sustainable way:** <br>"According to Peter Morville, the purpose of your IA is to help users understand where they are, what they’ve found, what’s around, and what to expect. As a result IA informs the content strategy through identifying word choice as well as informing user interface design and interaction design through playing a role in the wireframing and prototyping processes." (Source: Usability.org)
 
 The organization of content can be broken up into these components:
 
@@ -16,9 +16,9 @@ The organization of content can be broken up into these components:
 *   **Navigation Systems:** How users browse or move through information
 *   **Search Systems:** How users look for information
 
-Seen many times in agencies and in-house companies, XD/IA professionals are a subset of UX Designers, focused exclusively on understanding industry standards for creating, storing, accessing and presenting information.
+Usually found working in agencies and in-house companies, XD/IA professionals are part of a subset of UX Designers that is focused exclusively on understanding industry standards for creating, storing, accessing and presenting information.
 
-### Part content strategist, part writer, part sorting guru, XA/IA Designers are involved in:
+## Part content strategist, part writer, part sorting guru, XA/IA Designers are primarily focused on:
 
 *   business strategy
 *   content usage
@@ -36,12 +36,12 @@ Seen many times in agencies and in-house companies, XD/IA professionals are a su
 <br><br>
 
 
-## UX Student Interviews ## 
+## UX Student Interviews 
 
-To get a better sense of XD/IA design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
+To get a better sense of XD/IA design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
 [English teacher turned designer.](https://designation.io/blog/interview-sean-norton-uxui-strategist-vanguard-technology) 
-by [Sean Norton](https://seannorton.me) (Ruby cohort graduate), [Vanguard Technology.](https://www.vtcus.com/) (5 min read)
+by [Sean Norton](https://seannorton.me) (Ruby cohort graduate) of [Vanguard Technology.](https://www.vtcus.com/) (5 min read)
 
 
 [Former research assistant turned content strategist.](https://designation.io/blog/carolynmcguire) 
