@@ -18,7 +18,7 @@ The organization of content can be broken up into these components:
 
 Usually found working in agencies and in-house companies, XD/IA professionals are part of a subset of UX Designers that is focused exclusively on understanding industry standards for creating, storing, accessing and presenting information.
 
-## Part content strategist, part writer, part sorting guru, XA/IA Designers are primarily focused on:
+# Part content strategist, part writer, part sorting guru, XA/IA Designers are primarily focused on:
 
 *   business strategy
 *   content usage
@@ -36,7 +36,8 @@ Usually found working in agencies and in-house companies, XD/IA professionals ar
 <br><br>
 
 
-## UX Student Interviews 
+# UX Student Interviews 
+<hr color="#eaecef">
 
 To get a better sense of XD/IA design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
@@ -50,42 +51,43 @@ by [Carolyn Mcguire](http://www.carolynmcguire.com/) (Topaz cohort graduate) of 
 [Marketing and advertising to content strategy consultant.](https://designation.io/blog/interview-with-emily-simon) 
 by [Emily Simon](https://emilysimon.me/) (Umber cohort graduate) of [Allstate.](https://www.allstate.com/) (5 min read)
 
-### [Information architecture: at a glance](https://webstyleguide.com/wsg3/3-information-architecture/index.html)
+## [Information architecture: at a glance](https://webstyleguide.com/wsg3/3-information-architecture/index.html)
 by [Patrick J. Lynch](https://coastfieldguides.com/) and [Sarah Horton](https://sarahhortondesign.com/) (5 min read) <br>In the context of web site design, information architecture describes the overall conceptual models and general designs used to plan, structure, and assemble a site. Every web site has an information architecture, but information architecture techniques are particularly important to large, complex web sites, where the primary aims are to... [Read more](https://webstyleguide.com/wsg3/3-information-architecture/index.html)
 
-### [IA basics for designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20)
+## [IA basics for designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20)
 by [Tubik Studio](https://tubikstudio.com/) (7 min read) <br>The World Wide Web contains a tremendous amount of information which is hard to imagine unstructured because a human brain wouldn’t be able to perceive any single thing. People got used to seeing content and functionality of the digital products as many of them are now: structured and easy to use. However, it doesn’t occur unintentionally. Designers and developers take a responsibility of constructing content and navigation system in the appropriate way for users perception. The science that assists experts in the content structuring is called information architecture. Today’s article is devoted to the essence of information architecture and presents the basic points every designer should know. [Read more](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20)
 
-### [Information architecture: a UX designer’s guide](https://www.justinmind.com/blog/information-architecture-ux-guide/)
+## [Information architecture: a UX designer’s guide](https://www.justinmind.com/blog/information-architecture-ux-guide/)
 by [Rebeca Costa](https://www.justinmind.com/blog/author/rebeka-costa/) (30 min read) <br>Whenever we use any website or mobile app, we are faced with an interface that lays down information to us as we need it or look for it. It’s something we are all used to – most users don’t even notice that all the content inside that website has been carefully organized for them. [Read more](https://www.justinmind.com/blog/information-architecture-ux-guide/)
 <br><br>
 
 
 
-## Videos
+# Videos
+<hr color="#eaecef">
 
-### [User Experience Design in the Google Era](https://www.youtube.com/watch?v=qbToDF1M7j0)
+## [User Experience Design in the Google Era](https://www.youtube.com/watch?v=qbToDF1M7j0)
 (3 min) NavigationArts' Director of Information Architecture, Kelley McDonald, discusses how to engage site visitors through effective site structure and relevant content.<br><br>
 <a href="https://www.youtube.com/watch?v=qbToDF1M7j0"><img src="https://img.youtube.com/vi/qbToDF1M7j0/0.jpg" width="420"></a>
 
 #
 
-### [What does an information architect do?](https://www.youtube.com/watch?v=_lwzWdO8AI8)
+## [What does an information architect do?](https://www.youtube.com/watch?v=_lwzWdO8AI8)
 (5 min) Ever wondered what an information architect does? Common tasks of IAs include research, navigation creation, wireframing, labeling, and data modeling. Most of these tasks are valuable because of the process they follow, and some also result in deliverables that you can present back to the client.<br><br>
 <a href="https://www.youtube.com/watch?v=_lwzWdO8AI8"><img src="https://img.youtube.com/vi/_lwzWdO8AI8/0.jpg" width="420"></a>
 
 #
 
 
-### [Lynda: Why do information architecture?](https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html)
+## [Lynda: Why do information architecture?](https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html)
 (3 min) Ever wondered what an information architect does? Common tasks of IAs include research, navigation creation, wireframing, labeling, and data modeling. Most of these tasks are valuable because of the process they follow, and some also result in deliverables that you can present back to the client.<br><br>
 <a href="https://www.lynda.com/Web-User-Experience-tutorials/Why-do-information-architecture-research/122427/143771-4.html"><img src="https://cdn.lynda.com/video/143771-73-635180675443217585_338x600_thumb.jpg" width="420"></a>
 <br><br>
 
 
 
-## Tools
-
+# Tools
+<hr color="#eaecef">
 
 *   [Optimal sort](https://www.optimalworkshop.com/optimalsort)
 *   [Dynomapper](https://dynomapper.com/)
@@ -94,7 +96,8 @@ by [Rebeca Costa](https://www.justinmind.com/blog/author/rebeka-costa/) (30 min 
 
 
 
-## Kits and Standards
+# Kits and Standards
+<hr color="#eaecef">
 
 *   [First Time UX](http://firsttimeux.tumblr.com/)
 *   [Subjective-C](http://subjc.com/)
