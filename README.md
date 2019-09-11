@@ -3,7 +3,7 @@
 > ## If a picture is worth 1000 words, a prototype is worth 1000 meetings.  
 > –  David & Tom Kelley, Founders of IDEO
 
-Have you ever gone used a web product and questioned why a designer put certain content on a certain part of a screen? Or have you ever wondered why some websites place large images at the top of the page? That's the work of an Experience Architect (XA) or an Information Architect (IA) specialist. They create content strategy, structure the information and dictate what pieces of information users use and how.
+Have you ever used a web product and questioned why a designer put certain content on a certain part of a screen? Or have you ever wondered why some websites place large images at the top of the page? That's the work of an Experience Architect (XA) or an Information Architect (IA) specialist. They create content strategy, structure the information and dictate what pieces of information users use and how.
 
 Whether you know it or not, we're all familiar with patterns in design. Patterns are why you already know where you'll find the profile icon before you get to the landing page. XA/IA specialists use patterns to make sense of content through multiple channels (mobile, tablet, desktop) and services while matching user goals and business needs.
 
