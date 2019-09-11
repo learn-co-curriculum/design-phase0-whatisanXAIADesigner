@@ -41,15 +41,16 @@ Usually found working in agencies and in-house companies, XD/IA professionals ar
 
 To get a better sense of XD/IA design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
-[English teacher turned designer.](https://designation.io/blog/interview-sean-norton-uxui-strategist-vanguard-technology) 
-by [Sean Norton](https://seannorton.me) (Ruby cohort graduate) of [Vanguard Technology.](https://www.vtcus.com/) (5 min read)
+## [English teacher turned designer.](https://designation.io/blog/interview-sean-norton-uxui-strategist-vanguard-technology) 
+(5 min read) by [Sean Norton](https://seannorton.me) (Ruby cohort graduate) of [Vanguard Technology.](https://www.vtcus.com/)
 
 
-[Former research assistant turned content strategist.](https://designation.io/blog/carolynmcguire) 
-by [Carolyn Mcguire](http://www.carolynmcguire.com/) (Topaz cohort graduate) of [Dragon Army.](https://www.dragonarmy.com/) (5 min read)
+## [Former research assistant turned content strategist.](https://designation.io/blog/carolynmcguire) 
+(5 min read) by [Carolyn Mcguire](http://www.carolynmcguire.com/) (Topaz cohort graduate) of [Dragon Army.](https://www.dragonarmy.com/) 
 
-[Marketing and advertising to content strategy consultant.](https://designation.io/blog/interview-with-emily-simon) 
-by [Emily Simon](https://emilysimon.me/) (Umber cohort graduate) of [Allstate.](https://www.allstate.com/) (5 min read)
+## [Marketing and advertising to content strategy consultant.](https://designation.io/blog/interview-with-emily-simon) 
+(5 min read) by [Emily Simon](https://emilysimon.me/) (Umber cohort graduate) of [Allstate.](https://www.allstate.com/) 
+
 
 # Articles
 
