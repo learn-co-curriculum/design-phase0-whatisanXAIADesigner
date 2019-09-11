@@ -51,6 +51,8 @@ by [Carolyn Mcguire](http://www.carolynmcguire.com/) (Topaz cohort graduate) of 
 [Marketing and advertising to content strategy consultant.](https://designation.io/blog/interview-with-emily-simon) 
 by [Emily Simon](https://emilysimon.me/) (Umber cohort graduate) of [Allstate.](https://www.allstate.com/) (5 min read)
 
+# Articles
+
 ## [Information architecture: at a glance](https://webstyleguide.com/wsg3/3-information-architecture/index.html)
 by [Patrick J. Lynch](https://coastfieldguides.com/) and [Sarah Horton](https://sarahhortondesign.com/) (5 min read) <br>In the context of web site design, information architecture describes the overall conceptual models and general designs used to plan, structure, and assemble a site. Every web site has an information architecture, but information architecture techniques are particularly important to large, complex web sites, where the primary aims are to... [Read more](https://webstyleguide.com/wsg3/3-information-architecture/index.html)
 
